@@ -21,7 +21,7 @@ body {
 }
 
 img {
-  display: inline-flex;
+  display: block;
   width: 100%;
   float: left;
 }
